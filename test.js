@@ -2,8 +2,11 @@
 //Code2
 
 const register = user => {
-    if(user){
-        return true
+    return "User"
+}
+const likePost = like => {
+    if(like){
+        return ture
     }
     else{
         return false

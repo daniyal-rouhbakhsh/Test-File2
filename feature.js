@@ -1,5 +1,10 @@
 const register = user => {
-  return true
+  if(user == 'amin'){
+    return true
+  }
+  else{
+    return false
+  }
 }
 
 const getApi = api => {

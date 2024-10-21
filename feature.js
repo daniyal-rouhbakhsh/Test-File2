@@ -1,12 +1,12 @@
 const register = user => {
-  if(user == 'amin'){
+  return true
+}
+
+const getApi = api => {
+  if(api == "ok!"){
     return true
   }
   else{
     return false
   }
-}
-
-const getApi = api => {
-  return "API"
 }

@@ -3,7 +3,7 @@ const register = user => {
 }
 
 const getApi = api => {
-  if(api){
+  if(api == "ok!"){
     return true
   }
   else{

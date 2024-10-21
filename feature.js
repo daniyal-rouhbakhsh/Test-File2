@@ -10,3 +10,11 @@ const getApi = api => {
     return false
   }
 }
+const submitUser = sub => {
+  if(sub){
+    return true
+  }
+  else{
+    return false
+  }
+}

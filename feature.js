@@ -6,7 +6,7 @@ const getApi = api => {
   return true
 }
 const submitUser = sub => {
-  if(sub){
+  if(sub == 'ok'){
     return true
   }
   else{

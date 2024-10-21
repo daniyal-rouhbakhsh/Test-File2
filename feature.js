@@ -8,10 +8,5 @@ const register = user => {
 }
 
 const getApi = api => {
-  if(api){
-    return true
-  }
-  else{
-    return false
-  }
+  return "API"
 }

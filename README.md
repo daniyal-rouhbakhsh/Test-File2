@@ -49,6 +49,7 @@ _Hello World_
 ---
 
 ```
+
 const register = user => {
     if(user){
         return true
@@ -57,3 +58,5 @@ const register = user => {
         return false
     }
 }
+
+```

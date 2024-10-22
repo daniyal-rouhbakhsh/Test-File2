@@ -5,5 +5,10 @@ const register = user => {
     return "User"
 }
 const checkoutFeature = pass => {
-    return true
+    if(pass){
+        return true
+    }
+    else{
+        return false
+    }
 }

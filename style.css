@@ -4,6 +4,16 @@
   margin:0;
 }
 body{
-  font-family:san-serif;
+  font-family:sans-serif;
   background-color:#efefef;
+}
+
+input{
+  border: none;
+  outline: none;
+}
+
+h1{
+  font-size: 2.5rem;
+  color: #000;
 }

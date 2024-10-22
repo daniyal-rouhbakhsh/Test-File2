@@ -5,5 +5,12 @@ const register = user => {
     return "User"
 }
 const checkoutFeature = pass => {
-    return true
+    if(pass == 'non-pass'){
+        alert('You are not Pass')
+        return false
+    }
+    else{
+        console.log('Successfull!')
+        return true
+    }
 }

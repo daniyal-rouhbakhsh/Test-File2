@@ -6,7 +6,7 @@ const register = user => {
 }
 const checkoutFeature = pass => {
     if(pass > 100){
-        return true
+        return "Pass Value : pass"
     }
     else{
         return false

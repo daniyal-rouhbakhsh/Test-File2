@@ -4,12 +4,11 @@
 const register = user => {
     return "User"
 }
-const likePost = like => {
-    if(like){
-        return ture
+const checkoutFeature = pass => {
+    if(pass > 100){
+        return true
     }
     else{
         return false
     }
 }
-

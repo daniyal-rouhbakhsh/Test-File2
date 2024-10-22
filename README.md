@@ -42,4 +42,6 @@ _Hello World_
 
 ---
 
-<span style="background-color:red;color:#fff;padding:0.5rem;border-radius:0.5rem">JavaScript</span>
+`JavaScript`
+
+`Social Media`

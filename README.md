@@ -45,3 +45,15 @@ _Hello World_
 `JavaScript`
 
 `Social Media`
+
+---
+
+```
+const register = user => {
+    if(user){
+        return true
+    }
+    else{
+        return false
+    }
+}

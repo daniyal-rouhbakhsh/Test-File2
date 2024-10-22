@@ -42,4 +42,4 @@ _Hello World_
 
 ---
 
-<p style="background-color: red;color: #fff;">JavaScript</p>
+<p style="background-color: red;color: #fff;width:max-content;padding:0.5rem;border-radius:0.5rem">JavaScript</p>
